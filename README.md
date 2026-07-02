@@ -6,7 +6,8 @@
 </head>
 <body>
 
-<img src="./ipanema.jpg" alt="イパネマ海岸の写真"><br>
+<img src="<img width="960" height="534" alt="bg0" src="https://github.com/user-attachments/assets/956533e7-43b7-4240-a7b4-65ce9fce2b08" />
+"><br>
 
 </body>
 </html>
