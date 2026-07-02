@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="ja">
-
+<head>
+  <meta charset="utf-8">
+  <title>画像</title>
+</head>
 <body>
 
-<img src="img width="960" height="534" alt="bg0" src="https://github.com/user-attachments/assets/9610bab6-fdce-4803-a867-5a401639c7cf" /" alt="イパネマ海岸の写真"><br>
+<img src="./ipanema.jpg" alt="イパネマ海岸の写真"><br>
 
 </body>
 </html>
-
 
