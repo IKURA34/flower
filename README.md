@@ -8,8 +8,10 @@
 <body>
 
 <div style="position: relative; width: 480px; height: 374px;">
-  <img src="./ipanema.jpg" style="position: absolute; left: 0; top: 0;">
-  <img src="./neko.png" style="position: absolute; left: 0; top: 0;">
+  <img src="./<img width="960" height="534" alt="bg0" src="https://github.com/user-attachments/assets/d5cc4848-fd10-422b-8b4f-b1cdb3db623c" />
+" style="position: absolute; left: 0; top: 0;">
+  <img src="./![Uploading butterfly.gif…]()
+" style="position: absolute; left: 0; top: 0;">
 </div>
 
 </body>
