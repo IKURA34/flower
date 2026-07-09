@@ -10,7 +10,7 @@
 
  <img src="./butterfly.gif" style="position:absolute; left:300px; top:250px; width:70px; height:60px;">
         
-  <img src="./butterfly.gif" style="width:70px; height:60px; position:absolute; left:300px; top:250px;">
+  <img src="./butterfly.gif" style="position:absolute; left:300px; top:250px;">
     
 </div>
 
