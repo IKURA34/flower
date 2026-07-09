@@ -8,7 +8,7 @@
        style="position:absolute; left:0; top:0; width:960px; height:534px; z-index:1;">
 
   <img src="butterfly.gif"
-       style="position:absolute; left:100px; top:20px; width:70px; height:60px; z-index:2;">
+       style="position:absolute; left:100px; top:20px;">
 
   <img src="butterfly.gif"
        style="position:absolute; left:200px; top:300px; width:70px; height:60px; z-index:2;">
