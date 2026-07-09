@@ -17,7 +17,7 @@
        style="position:absolute; left:200px; top:300px; width:70px; height:60px;">
 
   <img src="https://github.com/user-attachments/assets/b67495e9-9fd2-40a1-829a-5b53dd4f6e22"
-       style="position:absolute; left:300px; top:150px; width:70px; height:60px;">
+      style="position: absolute; left: 180px; top: 80px; background: #dbeafe; padding: 6px;">
 </div>
 
 </body>
