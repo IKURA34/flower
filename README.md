@@ -14,12 +14,13 @@
        style="position:absolute; left:200px; top:300px; width:70px; height:60px;">
 
   <img src="butterfly.gif"
-       style="position:absolute; left:200px; top:300px; width:70px; height:60px;">
+       style="position:absolute; left:300px; top:250px; width:70px; height:60px;">
     
 </div>
 
 </body>
 </html>
+
 
 
 
