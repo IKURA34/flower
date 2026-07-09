@@ -34,3 +34,9 @@
   height: 40px;
   transition: left 0.5s ease, top 0.5s ease;
 }
+
+#foo1 { left: 400px; top: 200px; }
+#foo2 { left: 500px; top: 250px; }
+#foo3 { left: 600px; top: 220px; }
+#foo4 { left: 700px; top: 260px; }
+#foo5 { left: 780px; top: 210px; }
