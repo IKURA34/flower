@@ -8,13 +8,13 @@
        style="position:absolute; left:0; top:0; width:960px; height:534px;">
 
   <img src="https://github.com/user-attachments/assets/b67495e9-9fd2-40a1-829a-5b53dd4f6e22"
-       style="position:absolute; left:10px; top:20px; width:7px; height:6px;">
+       style="position:absolute; left:100px; top:200px; width:70px; height:60px;">
 
   <img src="https://github.com/user-attachments/assets/b67495e9-9fd2-40a1-829a-5b53dd4f6e22"
-       style="position:absolute; left:20px; top:30px; width:7px; height:6px;">
+       style="position:absolute; left:200px; top:300px; width:70px; height:60px;">
 
   <img src="https://github.com/user-attachments/assets/b67495e9-9fd2-40a1-829a-5b53dd4f6e22"
-       style="position:absolute; left:30px; top:15px; width:7px; height:6px;">
+       style="position:absolute; left:300px; top:150px; width:70px; height:60px;">
 </div>
 
 </body>
