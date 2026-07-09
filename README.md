@@ -16,7 +16,7 @@
   <img src="https://github.com/user-attachments/assets/b67495e9-9fd2-40a1-829a-5b53dd4f6e22"
        style="position:absolute; left:200px; top:300px; width:70px; height:60px;">
 
-  <img style=" position: absolute; left:200px; top:300px; width:70px; height:60px;" 
+  <img style=" position: absolute; left:10px; top:10px; width:70px; height:5px;" 
     src="https://github.com/user-attachments/assets/b67495e9-9fd2-40a1-829a-5b53dd4f6e22">
     
 </div>
